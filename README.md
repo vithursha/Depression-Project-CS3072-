@@ -1,3 +1,7 @@
+Detecting Depression in Short Text using Machine Learning Algorithms 
+
+GitHub Repository - https://github.com/vithursha/Depression-Project-CS3072-
+
 This project aims to detect depression in short text using machine learning algorithms. For simplicity, the steps involved in this project have been
 broken down into individual folders in the 'Depression-Project-CS3072-'. The folders are as follows: 
 
